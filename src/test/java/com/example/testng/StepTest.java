@@ -27,7 +27,7 @@ public class StepTest {
         nestedAnnotatedStep();
     }
 
-    @Step("Nested annotated step with global parameter [{this.GLOBAL_PARAMETER}]")
+    @Step("Nested annotated step with kushal global parameter [{this.GLOBAL_PARAMETER}]")
     public void nestedAnnotatedStep() {
 
     }
